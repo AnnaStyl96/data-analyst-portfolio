@@ -4,6 +4,8 @@ Power BI project focused on analyzing sales and financial performance across cou
 
 ## Dashboard Preview
 
+![Sales Dashboard](sales-dashboard.png)
+
 A dashboard was created to provide an overview of sales performance, profitability, and sales distribution across different countries and customer segments.
 
 ## Key Analysis
