@@ -4,6 +4,8 @@ Power BI project focused on analyzing quality metrics and employee performance.
 
 ## Dashboard Overview
 
+![Quality Dashboard](quality-dashboard.png.png)
+
 The dashboard provides an overview of quality and employee performance using key metrics and interactive visualizations.
 
 ## Key Analysis
