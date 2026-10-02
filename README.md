@@ -1,70 +1,62 @@
+# 📊 Data Analyst Portfolio – Anna Stylianidou
 
-# 💼 Data Analyst Portfolio – Anna Stylianidou
+Welcome to my Data Analyst portfolio.
 
-Welcome to my Data Analyst portfolio! This repository showcases a variety of projects and certified assessments I've completed through structured training and hands-on practice in Python, SQL, Excel, Power BI, Tableau, and Machine Learning.
+I am a Mathematics graduate with training in Data Analysis and Business Intelligence. This portfolio includes projects developed through coursework and hands-on practice using Power BI, SQL, Python, Tableau, and Excel.
 
----
+## 🛠️ Tools & Skills
 
-## 📂 Contents
+- **Power BI:** Power Query, Data Modeling, DAX, Reports & Dashboards
+- **SQL:** MySQL, JOINs, aggregations, filtering and sorting
+- **Python:** pandas, NumPy
+- **Tableau:** Data Visualization & Interactive Dashboards
+- **Excel:** Data Analysis & Reporting
 
-- **Portfolio Documents:** In Greek and English (`.docx` / `.pdf`)
-- **Power BI Project:** Business data dashboard
-- **Tableau Project:** Interactive visual analysis
-- **Python Files:** Data analysis scripts and Coderbyte challenges
-- **SQL Assessments:** Verified reports from Coderbyte (PDFs)
-- **Excel Workbooks:** KPI analysis and case studies
+## 📁 Featured Projects
 
----
+### 📊 Power BI – Sales & Financial Analysis
+Sales and financial performance analysis across countries and business segments.
 
-## 🛠️ Tools & Technologies
+**Skills:** Power BI, Power Query, Data Modeling, DAX, Data Visualization, KPIs, Time Intelligence
 
-- **Languages:** Python, SQL
-- **Libraries:** pandas, numpy, matplotlib, seaborn, plotly, scikit-learn
-- **Tools:** Excel, Power BI, Tableau, Git, GitHub
-- **Skills:** Data cleaning, analysis, visualization, dashboards, supervised learning
+➡️ [View Project](./Power-BI-Sales-Financial-Analysis/)
 
 ---
 
-## 📊 Project Highlights
+### 🎯 Power BI – Quality & Employee Performance
+Analysis of quality metrics and employee performance, including quality scores, defects, sampling and performance by employee, supervisor and location.
 
-### 🔹 Power BI Project
-- `Power Bi Assignment.pbix`
-- Interactive dashboard with KPIs, slicers, and business insights.
+**Skills:** Power BI, Data Modeling, Data Visualization, KPI Analysis, Interactive Reports, Tooltips
 
-### 🔹 Tableau Project
-- `Final Assignment Tableau.twbx`
-- Visual storytelling through charts, filters, and dashboards.
-
-### 🔹 Python Projects
-- Data analysis with real-world datasets (sales, sports, etc.)
-- Use of pandas, numpy, plotly, seaborn, matplotlib
-- Coderbyte assessments in conditionals, loops, modules, regex, algorithms (scores 82%–100%)
-
-### 🔹 SQL Assessments
-- Verified results from MySQL challenges on Coderbyte (scores: 86%–100%)
-- Topics: SELECT, JOINs, Aggregation, Subqueries, Sorting
-- See `SQL_Assessments/` folder for detailed PDF reports.
-
-### 🔹 Machine Learning Projects
-- Preprocessing, train-test split, and linear regression models using Python
-- Libraries used: pandas, scikit-learn, matplotlib
+➡️ [View Project](./Power-BI-Quality-Employee-Performance/)
 
 ---
 
-## 🎓 Education
+### 🗄️ SQL
+Practical SQL exercises including queries, JOINs, aggregations, filtering and sorting.
 
-- Final-year BSc student in Mathematics at Aristotle University of Thessaloniki
-- Graduate of Data Analyst Bootcamp (Excel, Power BI, Python, SQL, Tableau, ML)
+➡️ [View SQL Work](./SQL/)
 
 ---
+
+### 📈 Tableau
+Interactive data visualization project using charts, filters, parameters and calculated fields.
+
+**Tools:** Tableau
+
+---
+
+### 🐍 Python
+Data analysis exercises using Python for data processing and analysis.
+
+**Tools:** Python, pandas, NumPy
+
+## 🎓 Education & Training
+
+- **BSc in Mathematics** – Aristotle University of Thessaloniki
+- **Data Analyst Professional** – WorkEarly
+- **Microsoft Power BI Data Analyst (PL-300)** – Training & exam preparation
 
 ## 📫 Contact
 
-Feel free to connect or reach out:
-- **Email:** anna.stul.96@gmail.com
-- **GitHub:** [AnnaStyl96](https://github.com/AnnaStyl96)
-- **LinkedIn:** *[Add your LinkedIn link here]*
-
----
-
-> This portfolio is a work in progress and continuously expanding. Thank you for visiting!
+- **GitHub:** AnnaStyl96
