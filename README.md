@@ -14,6 +14,26 @@ I am a Mathematics graduate with training in Data Analysis and Business Intellig
 
 ## 📁 Featured Projects
 
+### 📊 Power BI – AdventureWorks Sales Analysis
+
+Sales performance analysis using Power BI, with a focus on advanced DAX calculations, time intelligence, and interactive dashboards.
+
+**Skills:** Power BI, Power Query, Data Modeling, DAX, CALCULATE, RANKX, ALLSELECTED, Time Intelligence, Data Visualization
+
+➡️ [View Project](https://github.com/AnnaStyl96/AdventureWorks-Sales-Analysis)
+
+---
+
+### 👥 Power BI – HR Analytics
+
+Human resources data analysis using Power BI, featuring employee demographics, business unit comparisons, interactive filters, ranking, and drillthrough reports.
+
+**Skills:** Power BI, Power Query, Data Modeling, DAX, KPI Analysis, RANKX, Drillthrough, Conditional Formatting
+
+➡️ [View Project](https://github.com/AnnaStyl96/HR-Analytics-PowerBI)
+
+---
+
 ### 📊 Power BI – Sales & Financial Analysis
 Sales and financial performance analysis across countries and business segments.
 
