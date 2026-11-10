@@ -57,6 +57,7 @@ Practical SQL exercises including queries, JOINs, aggregations, filtering and so
 
 ➡️ [View SQL Work](./SQL/)
 
+- [Retail Sales Analysis | MySQL](./retail-sales-analysis/) — SQL analysis of customer spending, product revenue, and sales by country.
 ---
 
 ### 📈 Tableau
